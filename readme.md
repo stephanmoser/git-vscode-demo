@@ -1,5 +1,9 @@
 # Learning Git in VSCode
 
-## Commands
-Pusing Changes to Remote Repo <br>
+## Push
+
+Pushing Changes to Remote Repo
+
+## Pull
+
 Pulling Changes to Local Repo
